@@ -1,8 +1,10 @@
 # C-and-Data-Structure-
 My 1st repository 
 
-1 even_odd
+1 even_odd.
 
-2 string op
+2 String operations.
 
-3 finding the adjacent duplicates 
+3 Finding the adjacent duplicates.
+
+4 Sorting techniques.
