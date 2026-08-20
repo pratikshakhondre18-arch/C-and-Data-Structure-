@@ -9,4 +9,4 @@ My 1st repository
 
 4 Sorting techniques.
 
-Stack operations.
+5 Stack operations.
