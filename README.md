@@ -8,3 +8,5 @@ My 1st repository
 3 Finding the adjacent duplicates.
 
 4 Sorting techniques.
+
+Stack operations.
