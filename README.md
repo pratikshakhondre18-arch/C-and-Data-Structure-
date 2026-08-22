@@ -10,3 +10,5 @@ My 1st repository
 4 Sorting techniques.
 
 5 Stack operations.
+
+6 Merge sorted array.
